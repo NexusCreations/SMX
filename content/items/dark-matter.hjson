@@ -1,6 +1,6 @@
 color: 101010
-name: Dark Matter sh
-description: A small fragment of Anti Matter. Be carefull, this thing can be very destructive!\nCan be acquired on shadow shard extractors\nSpriter: Solokil
+name: Dark Matter
+description: Dark matter is a very rare resource... Used for strength arsenal but very volatile on it's original form. Be careful! \nCan be acquired on shadow shard extractors\nSpriter: Solokil
 explosiveness: 10
 research: {
     research: start
