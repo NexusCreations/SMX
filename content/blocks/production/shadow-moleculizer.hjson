@@ -14,11 +14,11 @@ requirements: [
 ]
 
 consumes: {
-  items: {
+  /*items: {
     items: [
       lead/3
   ]
-  }
+  }*/
   power: 0.9
 }
 outputItem: shadow-shard/2
