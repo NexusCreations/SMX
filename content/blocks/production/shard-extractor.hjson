@@ -29,8 +29,8 @@ requirements: [
 ]
 category: production
 research: {
-  research: start
-  parent: start
+  research: shadow-shard
+  parent: shadow-moleculizer
   reuirements: [
     comp-shadum/635
     silicon/770
