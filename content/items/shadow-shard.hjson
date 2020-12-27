@@ -1,8 +1,8 @@
 color: a83cd6
 name: Shadow Shard
 research: {
-    research: start
-    parent: graphite
+    research: graphite
+    parent: start
     requirements: [
     copper/2000
     graphite/2500
