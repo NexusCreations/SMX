@@ -1,6 +1,6 @@
 type: genericCrafter
 name: "Shadow Moleculizer"
-health: 305
+health: 405
 size: 2
 
 hasItems: true
@@ -28,8 +28,8 @@ craftEffect: pulverizeSmall
 
 category: crafting
 research: {
-  research: graphite
-  parent: start
+  research: start
+  parent: graphite
   requirements: [
     copper/1800
     graphite/500
