@@ -1,6 +1,6 @@
 type: Separator
 name: Shard Extractor 
-description: The Tier 2 of the Shadow Colector. Extracts shadow shard. Have a very small chance of extract Dark Matter.
+description: Extracts shadow shard. Have a very small chance of extract Dark Matter.
 size: 3
 hasPower: true
 hasItems: true
@@ -13,6 +13,7 @@ consumes: {
   amount: 0.2
   optional: true
   booster: true
+  power: 0.6
   }
 }
 
