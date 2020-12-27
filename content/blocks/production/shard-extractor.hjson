@@ -17,8 +17,8 @@ consumes: {
 }
 
 results:  [
-  shadow-shard/1250
-  dark-matter/3
+  shadow-shard/1257
+  dark-matter/1
   ]
   buildCostMultiplier: 0.8
 requirements: [
@@ -29,7 +29,7 @@ requirements: [
 category: production
 research: {
   research: start
-  parent: dark-matter
+  parent: start
   reuirements: [
     comp-shadum/635
     silicon/770
