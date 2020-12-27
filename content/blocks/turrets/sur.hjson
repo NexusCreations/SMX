@@ -15,6 +15,34 @@ reloadTime: 20
 shots: 1
 
 ammoTypes: {
+  dark-matter: {
+    type: BasicBulletType
+    lifeTime: 40
+    speed: 5
+    ammoMultiplier: 30
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    damage: 75
+    width: 5
+    heigth: 14
+    sprite: shell
+    fragBullets: 8
+    splashDamageRadius: 24
+    splashDamage: 40
+    backColor: 101010
+    frontColor: 1010f0
+    fragBullet: {
+      type: BasicBulletType
+      width: 3
+      heigth: 9
+      lifetime: 21
+      speed: 2.1
+      damage: 10
+      sprite: shell
+    backColor: 101010
+    frontColor: 1010f0
+    }
+  }
   shadow-shard: {
     type: BasicBulletType
     lifeTime: 50
