@@ -13,8 +13,8 @@ consumes: {
   amount: 0.2
   optional: true
   booster: true
-  power: 0.6
   }
+  power: 0.6
 }
 
 results:  [
