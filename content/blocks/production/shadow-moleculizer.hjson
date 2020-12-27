@@ -23,11 +23,11 @@ craftEffect: pulverizeSmall
 
 category: crafting
 research: {
-  research: start
-  parent: graphite
+  research: graphite
+  parent: start
   requirements: [
-    copper/1899
-    graphite/562
-    lead/733
+    copper/700
+    graphite/500
+    lead/400
   ]
 }
