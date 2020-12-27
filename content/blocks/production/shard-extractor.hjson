@@ -14,12 +14,12 @@ consumes: {
   optional: true
   booster: true
   }
-  power: 0.6
+  power: 1.3
 }
 
 results:  [
   shadow-shard/1257
-  dark-matter/1
+  dark-matter/2
   ]
   buildCostMultiplier: 0.8
 requirements: [
