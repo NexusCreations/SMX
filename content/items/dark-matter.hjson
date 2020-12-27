@@ -1,6 +1,6 @@
 color: 101010
-name: Dark Matter
-description: A small fragment of Anti Matter. Be carefull, this thing can be very destructive!
+name: Dark Matter sh
+description: A small fragment of Anti Matter. Be carefull, this thing can be very destructive!\nCan be acquired on shadow shard extractors\nSpriter: Solokil
 explosiveness: 10
 research: {
     research: start
